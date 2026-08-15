@@ -13,7 +13,7 @@
 
 ## 获取完整 PRO 项目
 
-
+如需获取完整PRO版本及技术支持，请联系Telegram：https://t.me/xiangnan123456（技术支持费用：5000U）
 
 ---
 
