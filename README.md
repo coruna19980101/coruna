@@ -10,7 +10,7 @@
 这些脚本已修改为支持本地部署，仅包含经过测试的设备漏洞链。
 
 
-[Coruna-v2](https://github.com/coruna19980101/coruna-v2)
+[最新版Coruna项目](https://github.com/coruna19980101/coruna-v2)
 ---
 
 ## 获取完整 PRO 项目
