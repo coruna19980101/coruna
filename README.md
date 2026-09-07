@@ -9,11 +9,11 @@
 
 这些脚本已修改为支持本地部署，仅包含经过测试的设备漏洞链。
 
-
-[最新版Coruna项目](https://github.com/coruna19980101/coruna-v2)
 ---
 
 ## 获取完整 PRO 项目
+
+最新版Coruna项目，请点击[最新版Coruna项目](https://github.com/coruna19980101/coruna-v2)
 
 如需获取完整PRO版本及技术支持，请联系Telegram：https://t.me/xiangnan123456 （技术支持费用：5000U）
 
